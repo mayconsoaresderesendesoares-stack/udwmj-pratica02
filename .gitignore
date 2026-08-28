@@ -1,0 +1,10 @@
+# Arquivos temporários
+*.tmp
+*.log
+*.DS_Store
+
+# Pasta de dependências (se existisse)
+node_modules/
+
+# Configurações locais do VS Code
+.vscode/
